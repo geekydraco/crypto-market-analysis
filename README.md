@@ -4,15 +4,6 @@ This project focuses on **web scraping**, **data cleaning**, and **exploratory d
 
 ---
 
-## 📁 Project Structure
-├── coinmarket.csv                   # Raw data collected from CoinMarketCap
-├── data_extraction.ipynb            # Web scraping using requests and BeautifulSoup
-├── data_cleaning.ipynb              # Data cleaning and transformation
-├── data_analysis.ipynb              # EDA with charts and insights
-└── README.md                        # Project overview and instructions
-
----
-
 ## 🔍 Objectives
 
 - Scrape live cryptocurrency data (e.g., price, market cap, volume).
@@ -37,6 +28,21 @@ This project focuses on **web scraping**, **data cleaning**, and **exploratory d
 
 ---
 
+## 📒 Notebooks Overview
+
+🔹 data_extraction.ipynb
+> * Scrapes cryptocurrency data (name, price, market cap, etc.) from CoinMarketCap.
+> * Uses requests and BeautifulSoup to parse HTML.
+
+🔹 data_cleaning.ipynb
+> * Cleans the raw data.
+> * Handles missing values, removes duplicates, and converts datatypes.
+
+🔹 data_analysis.ipynb
+> * Performs Exploratory Data Analysis.
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -44,3 +50,11 @@ This project focuses on **web scraping**, **data cleaning**, and **exploratory d
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-market-analysis.git
 cd crypto-market-analysis
+```
+---
+
+## 📫 Contact
+
+For any questions or feedback, feel free to connect via:
+
+* [Linkedin](https://www.linkedin.com/in/anjankarthikchandra)
