@@ -32,8 +32,8 @@ This project focuses on **web scraping**, **data cleaning**, and **exploratory d
   - `seaborn`
   - `requests`
   - `BeautifulSoup4`
-  - 'Scipy'
-  - 'json'
+  - `Scipy`
+  - `json`
 
 ---
 
